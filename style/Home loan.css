@@ -1,0 +1,24 @@
+.content{
+    height: 400px;
+    width: 100%;
+    background-color: rgb(98, 62, 134);
+    /* border: 1px solid black; */
+}
+.content1{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+}
+.sub1{
+    height: 300px;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin: 50px;
+}
+.content2{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid black; */
+    /* display: flex; */
+}

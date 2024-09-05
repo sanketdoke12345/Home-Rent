@@ -1,0 +1,30 @@
+.content{
+    height: 520px;
+    width: 100%;
+    border: 1px solid black;
+    /* background-color: #07127a; */
+}
+.content1{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    /* background-color: #07127a; */
+    display: flex;
+}
+.sub1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 40px;
+    border-radius: 10px;
+    position: relative;
+    left: 40px;
+}
+.content2{
+    height: 400px;
+    width: 100%;
+    border: 1px solid black;
+    /* background-color: #07127a; */
+    /* display: flex; */
+}
+
